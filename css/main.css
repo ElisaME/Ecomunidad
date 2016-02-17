@@ -1,0 +1,122 @@
+/*Global*/
+body{
+	font-family: OpenSans-Regular;
+}
+.ft-size-14{
+	font-size: 14px;
+}
+.ft-size-12{
+	font-size: 12px;
+}
+/*Paddings/Margins*/
+.pd-2{
+	padding:2%;
+}
+.pds-4{
+	padding: 0 4%;
+}
+.pds-2{
+	padding: 0 2%
+}
+.mgt-4{
+	margin-top: 4%;
+}
+.mgb-4{
+	margin-bottom: 4%;
+}
+/*Nav*/
+.logo{
+	max-width: 100px;
+}
+.nav a{
+	font-size: 14px;
+	padding: 0 2%;
+	color: #BDBDBD;
+}
+.border{
+	border-right: 1px solid #BDBDBD;
+}
+/*Color*/
+.txt-gray{
+	color: #A4A4A4;
+}
+.txt-dark{
+	color: #6E6E6E;
+}
+/*Banner*/
+#banner{
+	background-image: url("../img/semilla.jpg");
+	height: 300px;
+}
+#gray p{
+	font-size: 14px;
+}
+/*Mision y Vision*/
+#mision-vision img{
+	max-width: 120px;
+}
+/*Metodologia*/
+#metodologia {
+	background-image: url("../img/fondo.jpg");
+	height: 300px;
+	overflow: hidden;
+}
+#metodologia img{
+	max-width: 100%;
+	margin: -5% 0 ;
+}
+/*Servicios*/
+#servicios img{
+	max-width: 100px;
+}
+/*Proyectos*/
+#proyectos img{
+	max-width: 400px;
+} 
+/*Perfiles equipo*/
+.perfil{
+	max-width: 200px;
+	border-radius: 100px;
+}
+.icono{
+	width: 40px;
+}
+/*Blog*/
+#blog{
+	background-image: url("../img/fondo2.jpg");
+}
+#blog img{
+	max-width: 280px;
+}
+#blog p{
+	text-align: justify;
+	width: 280px;
+}
+.flecha-l{
+	position: absolute;
+	top: 45%;
+	left: -10%;
+}
+.flecha-r{
+	position: absolute;
+	top: 45%;
+	right: -10%;
+}
+/*Siguenos*/
+#siguenos{
+	background-color: #424242;
+}
+.caja{
+	border: 1px solid #A4A4A4;
+	width: 225px;
+	height:150px;
+	float: left;
+	position: relative;
+}
+#siguenos img{
+	width: 40px;
+	position: absolute;
+	bottom: 3%;
+	right: 3%;
+}
+
